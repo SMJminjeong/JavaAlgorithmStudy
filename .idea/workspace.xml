@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c96cf757-705f-4560-a7ae-703a6c7a3612" name="Changes" comment=":triangular_flag_on_post: add 1316 그룹 단어 체커">
-      <change afterPath="$PROJECT_DIR$/src/boj/cantSeeCantHear.java" afterDir="false" />
+    <list default="true" id="c96cf757-705f-4560-a7ae-703a6c7a3612" name="Changes" comment=":triangular_flag_on_post: add 1764 듣보잡">
+      <change afterPath="$PROJECT_DIR$/src/boj/chromosome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/partString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/염색체2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="e7e5db84-15ea-459d-82a7-ea876970605f" name="Non Commit" comment="">
       <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
@@ -25,9 +28,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2cJ7jDqVLiMgcx93SI2aD4QPwTs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -37,8 +40,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.cantSeeCantHear.executor": "Run",
+    "Application.chromosome.executor": "Run",
     "Application.groupWordChecker.executor": "Run",
     "Application.whoIsWinner.executor": "Run",
+    "Application.염색체2.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -51,9 +56,35 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.cantSeeCantHear">
+  <component name="RunManager" selected="Application.염색체2">
+    <configuration name="염색체2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="boj.염색체2" />
+      <module name="JavaAlgorithmStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="boj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="cantSeeCantHear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="boj.cantSeeCantHear" />
+      <module name="JavaAlgorithmStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="boj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chromosome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="boj.chromosome" />
       <module name="JavaAlgorithmStudy" />
       <extension name="coverage">
         <pattern>
@@ -93,6 +124,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.염색체2" />
+        <item itemvalue="Application.chromosome" />
         <item itemvalue="Application.cantSeeCantHear" />
         <item itemvalue="Application.groupWordChecker" />
         <item itemvalue="Application.whoIsWinner" />
@@ -115,7 +148,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707817962257</updated>
-      <workItem from="1707817964588" duration="3581000" />
+      <workItem from="1707817964588" duration="6933000" />
+      <workItem from="1707827125881" duration="2795000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -141,7 +175,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707820798811</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=":triangular_flag_on_post: add 1764 듣보잡">
+      <option name="closed" value="true" />
+      <created>1707822639022</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707822639022</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,6 +204,7 @@
     <MESSAGE value="first commit" />
     <MESSAGE value=":triangular_flag_on_post: add 20154 이 구역의 승자는 누구야?!" />
     <MESSAGE value=":triangular_flag_on_post: add 1316 그룹 단어 체커" />
-    <option name="LAST_COMMIT_MESSAGE" value=":triangular_flag_on_post: add 1316 그룹 단어 체커" />
+    <MESSAGE value=":triangular_flag_on_post: add 1764 듣보잡" />
+    <option name="LAST_COMMIT_MESSAGE" value=":triangular_flag_on_post: add 1764 듣보잡" />
   </component>
 </project>
