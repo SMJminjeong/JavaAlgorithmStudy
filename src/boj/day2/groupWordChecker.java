@@ -1,4 +1,4 @@
-package boj;
+package boj.day2;
 
 import java.io.BufferedReader;
 import java.io.IOException;

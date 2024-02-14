@@ -1,4 +1,4 @@
-package boj;
+package boj.day2;
 import java.io.*;
 public class whoIsWinner {
     public static void main(String[] args) throws IOException {
