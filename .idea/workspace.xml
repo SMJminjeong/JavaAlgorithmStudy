@@ -4,19 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c96cf757-705f-4560-a7ae-703a6c7a3612" name="Changes" comment=":triangular_flag_on_post: add 1764 듣보잡">
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boj/day3/studyWord_1157.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="c96cf757-705f-4560-a7ae-703a6c7a3612" name="Changes" comment=":triangular_flag_on_post: add 9324 염색체">
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/day3/단어뒤집기_17413.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaAlgorithmStudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaAlgorithmStudy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/boj/cantSeeCantHear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/boj/day2/cantSeeCantHear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/boj/chromosome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/boj/day2/chromosome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/boj/groupWordChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/boj/day2/groupWordChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/boj/partString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/boj/day1/partString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/boj/whoIsWinner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/boj/day2/whoIsWinner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/boj/염색체2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/boj/day2/chromosome2.java" afterDir="false" />
     </list>
     <list id="e7e5db84-15ea-459d-82a7-ea876970605f" name="Non Commit" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,9 +28,9 @@
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
   </component>
-  <component name="KubernetesApiProvider"><![CDATA[{
-  "isMigrated": true
-}]]></component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -58,6 +49,7 @@
     "Application.studyWord_1157.executor": "Run",
     "Application.whoIsWinner.executor": "Run",
     "Application.단어공부_1157.executor": "Run",
+    "Application.단어뒤집기_17413.executor": "Run",
     "Application.염색체2.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -72,7 +64,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.studyWord_1157">
+  <component name="RunManager" selected="Application.단어뒤집기_17413">
     <configuration name="염색체2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="boj.day2.염색체2" />
       <module name="JavaAlgorithmStudy" />
@@ -99,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_단어공부_1157" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="boj.day3._단어공부_1157" />
+    <configuration name="단어뒤집기_17413" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="boj.day3.단어뒤집기_17413" />
       <module name="JavaAlgorithmStudy" />
       <extension name="coverage">
         <pattern>
@@ -112,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="chromosome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="boj.day2.chromosome" />
+    <configuration name="_단어공부_1157" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="boj.day3._단어공부_1157" />
       <module name="JavaAlgorithmStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="boj.day2.*" />
+          <option name="PATTERN" value="boj.day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,18 +132,18 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.단어뒤집기_17413" />
         <item itemvalue="Application.studyWord_1157" />
         <item itemvalue="Application._단어공부_1157" />
         <item itemvalue="Application.단어공부_1157" />
         <item itemvalue="Application.염색체2" />
-        <item itemvalue="Application.chromosome" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-11.0.21-corretto-11.0.21-f644763e9732-97de7592" />
+        <option value="jdk-11.0.22-corretto-11.0.22-f644763e9732-6ddbcd97" />
       </set>
     </attachedChunks>
   </component>
@@ -167,6 +159,7 @@
       <workItem from="1707817964588" duration="6933000" />
       <workItem from="1707827125881" duration="2795000" />
       <workItem from="1707870440062" duration="1588000" />
+      <workItem from="1707983206190" duration="2015000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -222,42 +215,8 @@
     <MESSAGE value=":triangular_flag_on_post: add 20154 이 구역의 승자는 누구야?!" />
     <MESSAGE value=":triangular_flag_on_post: add 1316 그룹 단어 체커" />
     <MESSAGE value=":triangular_flag_on_post: add 1764 듣보잡" />
-    <option name="LAST_COMMIT_MESSAGE" value=":triangular_flag_on_post: add 1764 듣보잡" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/boj/day3/studyWord_1157.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/boj/day3/studyWord_1157.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/boj/day3/studyWord_1157.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/boj/day3/studyWord_1157.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/boj/day3/studyWord_1157.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/boj/day3/studyWord_1157.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value=":triangular_flag_on_post: add 16916 부분문자열" />
+    <MESSAGE value=":triangular_flag_on_post: add 9324 염색체" />
+    <option name="LAST_COMMIT_MESSAGE" value=":triangular_flag_on_post: add 9324 염색체" />
   </component>
 </project>
