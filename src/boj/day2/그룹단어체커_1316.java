@@ -17,11 +17,12 @@ public class 그룹단어체커_1316 {
             String targetWord = br.readLine().trim(); //입력받는 단어
             Set<Character> charSet = new HashSet<>();
             boolean isGroupWord = true;
+            charSet.add(targetWord.charAt(0));
 
-            for (int j = 0; j < targetWord.length(); j++) {
+            for (int j = 1; j < targetWord.length(); j++) {
                 char currentChar = targetWord.charAt(j);
 
-                if ((j > 0) && (currentChar != targetWord.charAt(j-1)) && (charSet.contains(currentChar))) {
+                if ((currentChar != targetWord.charAt(j-1)) && (charSet.contains(currentChar))) {
                     isGroupWord = false;
                     break;
                 }
