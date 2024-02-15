@@ -1,6 +1,6 @@
 package boj.day2;
 import java.io.*;
-public class whoIsWinner {
+public class 이구역의승자는누구야_20154 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int[] arr = {3, 2, 1, 2, 3, 3, 3, 3, 1, 1, 3, 1, 3, 3, 1, 2, 2, 2, 1, 2, 1, 1, 2, 2, 2, 1};

@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class chromosome2 {
+public class 염색체_9342_2 {
 
     // ^ : 정규표현식 시작
     // $ : 정규표현식 끝
