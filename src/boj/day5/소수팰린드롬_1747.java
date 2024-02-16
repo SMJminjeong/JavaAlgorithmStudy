@@ -5,6 +5,9 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 public class 소수팰린드롬_1747 {
+    //소수를 먼저 구하고
+    //팰린드롬 수를 구하고
+    //제외하고 제일 작은 수를 구한다.
 
     private static boolean[] primeArr = new boolean[1004001];
     public static void main(String[] args) throws IOException {
